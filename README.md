@@ -7,3 +7,6 @@ The goal of this project is to produce minimum viable examples for common machin
 
 - **MLP image classifier**: `mlp.ipynb` on Fashion MNIST 
 - **CNN image classifier**: `cnn.ipynb` on imagenette-imagewoof 
+
+
+Goal is to eventually implement some new and exciting concepts in machine learning. 
